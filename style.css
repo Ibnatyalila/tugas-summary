@@ -1,0 +1,21 @@
+body{
+            background-color: rgb(219, 172, 179);
+        }
+        header{
+            background-color: rgb(240, 151, 166);
+            text-align: center;
+            padding: 30px;
+        }
+        main{
+            max-width: 800px;
+            margin: 50px auto;
+            background: rgb(240, 151, 166);
+            border-radius: 12px;
+            padding: 10px;
+            box-shadow: 0 0 10px 0;
+        }
+        footer{
+            text-align: center;
+            padding: 25px;
+            color: rgb(47, 46, 46);
+        }
